@@ -17,8 +17,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<br>
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm a prospective graduate student with an interest in signal processing and machine learning. My research interests include speech enhancement and audio compression as well as application of machine learning to problems such as speech recognition, natural language processing, source separation and music information retrieval. My research and project [work](/projects) so far has been primarily focused on speech enhancement, audio compression and onset detection in audio signals. 
 
-I also play, write and produce music under the moniker [Taryn](https://tarynn.bandcamp.com/){:target="\_blank"}.
+Currently, I'm working as a software engineer at UBS in Pune, India. My work involves data analysis and software development for Wealth Management USA. Prior to that, I was in Delhi Technological University where I obtained my bachelor's degree in Electronics and Communication Engineering.
+
+My other interests include music, independent cinema and math. I produce music under the moniker [Taryn](https://tarynn.bandcamp.com/){:target="\_blank"}.
+
+<br>

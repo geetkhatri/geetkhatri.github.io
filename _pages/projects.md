@@ -19,7 +19,7 @@ importance: 1
     {% endif %}
       <div class="card hoverable" style="height: 220px">
         {% if project.img %}
-        <img src="{{ project.img | relative_url }}" alt="project thumbnail">
+        <img src="{{ project.img | relative_url }}" alt="project thumbnail" style="max-height: 50%">
         {% endif %}
         <div class="card-body">
           <h6 class="card-title">{{ project.title }}</h6>
