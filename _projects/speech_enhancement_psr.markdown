@@ -29,5 +29,5 @@ The algorithm reconstructs the phase spectrum of the pitch-synchronous STFT of t
     </div>
 </div>
 <div class="caption">
-    The magnitude spectrum of the speech signal before (left) and after (right) application of the algorithm
+    The magnitude spectrum of a speech signal before (left) and after (right) application of the algorithm
 </div>
