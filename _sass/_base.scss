@@ -275,12 +275,10 @@ footer.sticky-bottom {
     .card {
       height: 92%;
       img {
-        max-height: 50%;
+        max-height: 110px;
+        width: 100%;
       }
     }
-  }
-  .card img {
-    width: 100%;
   }
 }
 
