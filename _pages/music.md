@@ -7,7 +7,7 @@ nav: true
 importance: 2
 ---
 
-My music is available on [Bandcamp](https://tarynn.bandcamp.com/){:target="\_blank"}.
+You can listen to my music on [Bandcamp](https://tarynn.bandcamp.com/){:target="\_blank"}.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2959587620/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://tarynn.bandcamp.com/album/womb-ether">Womb, Ether by Taryn</a></iframe>
 

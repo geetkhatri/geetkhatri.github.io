@@ -7,7 +7,9 @@ importance: 1
 github: https://github.com/geetkhatri/img2sound
 ---
 
-For a given image, the algorithm creates a sound whose spectrogram looks like the image. It maps the pixel intensities in the image to the amplitudes in the spectrogram and randomizes the phase spectrum. Before the mapping, edge detection is applied to the image in order to make the sound more distinctive and the spectrogram’s features more pronounced.
+For a given image, the algorithm creates a sound whose spectrogram looks like the image. It maps the pixel intensities of the image to the amplitudes of the spectrogram and randomizes the phase spectrum. Before the mapping, edge detection is applied to the image in order to make the sound more distinctive and the spectrogram’s features more pronounced.
+
+I did this project for [Music Hack Day India, 2019](https://musichackdayindia.github.io), an event that focused on application of technology to music and sound art.
 
 The code is available on [GitHub](https://github.com/geetkhatri/img2sound){:target="_blank"}.
 
@@ -55,8 +57,8 @@ The code is available on [GitHub](https://github.com/geetkhatri/img2sound){:targ
 1. Convert the image to grayscale (if it's RGB)
 2. Resize the image to a fixed height
 3. Apply edge detection to the image so that the audio is more tone-like
-4. Scale the pixel intensities in the image to control the loudness of the audio
-5. Map the pixel intensities to the amplitudes in the spectrogram
+4. Scale the pixel intensities of the image to control the loudness of the audio
+5. Map the pixel intensities to the amplitudes of the spectrogram
 6. Randomize the phase spectrum of the STFT
 7. Compute the inverse STFT to produce samples of the audio
 8. Generate an audio file from the samples
