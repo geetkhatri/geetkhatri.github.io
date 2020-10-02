@@ -54,7 +54,7 @@ bandcamp_id: tarynn
 contact_note: >
 #  You can even add a little note about which of these is the best way to reach you.
 
-google_analytics: UA-179530411-1 # out your google-analytics code
+google_analytics: #UA-179530411-1 # out your google-analytics code
 
 # -----------------------------------------------------------------------------
 # Blog
@@ -146,7 +146,7 @@ scholar:
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics:  true
+enable_google_analytics:  false
 enable_katex:             true
 enable_mansory:           true
 enable_progressbar:       true
