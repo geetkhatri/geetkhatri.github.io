@@ -9,7 +9,7 @@ github: https://github.com/geetkhatri/img2sound
 
 For a given image, the algorithm creates a sound whose spectrogram looks like the image. It maps the pixel intensities of the image to the amplitudes of the spectrogram and randomizes the phase spectrum. Before the mapping, edge detection is applied to the image in order to make the sound more distinctive and the spectrogram’s features more pronounced.
 
-I did this project for [Music Hack Day India, 2019](https://musichackdayindia.github.io), an event that focused on application of technology to music and sound art.
+I did this project for [Music Hack Day India, 2019](https://musichackdayindia.github.io){:target="\_blank"}, an event that focused on applications of technology in music and sound art.
 
 The code is available on [GitHub](https://github.com/geetkhatri/img2sound){:target="_blank"}.
 

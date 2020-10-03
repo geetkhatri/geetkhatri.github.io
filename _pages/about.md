@@ -21,4 +21,4 @@ I'm a prospective graduate student with an interest in signal processing and mac
 
 Currently, I'm working as a software engineer at UBS in Pune, India. My work involves data analysis and software development for Wealth Management USA. Prior to that, I was in Delhi Technological University, where I obtained my bachelor's degree in Electronics and Communication Engineering.
 
-Some of my other interests are music, independent film and math. I write and produce music, which is available [here](https://tarynn.bandcamp.com/){:target="\_blank"}.
+Some of my other interests are music, independent film and art. I write and produce music, which is available [here](https://tarynn.bandcamp.com/){:target="\_blank"}.
