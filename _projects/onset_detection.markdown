@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Onset Detection in Audio Signals
-description: 
+description:
 img: /assets/img/onset-detection.png
-importance: 3
+importance: 4
 ---
 
 Peaks in the spectral flux of an audio signal indicate onsets in the signal. The algorithm I worked on uses a measure similar to the spectral flatness measure in order to normalize the spectral flux of the audio signal. Normalization of the spectral flux is necessary for peak picking.
