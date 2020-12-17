@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a prospective graduate student with an interest in signal processing and machine learning. My research interests include speech enhancement and compressive sensing as well as application of machine learning to problems such as speech recognition, natural language processing and source separation. My [research and project work](/projects) so far has been primarily focused on speech enhancement, audio compression and onset detection in audio signals.
+My interests lie at the intersection of signal processing and machine learning. I'm particularly interested in their application to problems in audio, computer vision and medicine. My [research and project work](/projects) so far has been primarily focused on speech enhancement, audio compression and onset detection in audio signals.
 
 Currently, I'm working as a software engineer at UBS in Pune, India. Prior to that, I was in Delhi Technological University, where I obtained my bachelor's degree in Electronics and Communication Engineering.
 
