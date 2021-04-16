@@ -19,6 +19,6 @@ social: true  # includes social icons at the bottom of the page
 
 My interests lie at the intersection of signal processing and machine learning. I'm particularly interested in their application to problems in audio, computer vision and medicine. My [research and project work](/projects) so far has been primarily focused on speech enhancement, audio compression and onset detection in audio signals.
 
-Currently, I'm working as a software engineer at UBS in Pune, India. Prior to that, I was in Delhi Technological University, where I obtained my bachelor's degree in Electronics and Communication Engineering.
+Currently, I'm working as a software engineer in Pune, India. Prior to that, I was in Delhi Technological University, where I obtained my bachelor's degree in Electronics and Communication Engineering.
 
 Some of my other interests are music, independent film and art. I write and produce music, which is available [here](https://tarynn.bandcamp.com/){:target="\_blank"}.
