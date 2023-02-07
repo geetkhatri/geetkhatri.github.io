@@ -6,9 +6,9 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Geet
 middle_name:
 last_name: Khatri
-email: geetkhatrihc@gmail.com
+email: gkhatri@ncsu.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Geet Khatri's Portfolio
+  Geet Khatri | Portfolio
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" target="_blank">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -50,6 +50,7 @@ publons_id: # your ID on Publons
 research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
 bandcamp_id: tarynn
+instagram_id: geetkhatri
 
 contact_note: >
 #  You can even add a little note about which of these is the best way to reach you.

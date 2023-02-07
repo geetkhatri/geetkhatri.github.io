@@ -7,6 +7,8 @@ nav: true
 importance: 1
 ---
 
+To be updated...
+
 <div class="projects grid">
 
   {% assign sorted_projects = site.projects | sort: "importance" %}
