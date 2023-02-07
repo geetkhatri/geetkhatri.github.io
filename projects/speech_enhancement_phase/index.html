@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<title>Geet  Khatri | blank</title>
+<title>Geet  Khatri | STFT Phase Reconstruction for Speech Enhancement</title>
 <meta name="description" content="Geet Khatri | Portfolio
 ">
 
@@ -23,7 +23,7 @@
 <link rel="shortcut icon" href="/assets/img/favicon.ico">
 <link rel="stylesheet" href="/assets/css/main.css">
 
-<link rel="canonical" href="/blog/">
+<link rel="canonical" href="/projects/speech_enhancement_phase/">
 
 <!-- Open Graph -->
 
@@ -108,18 +108,19 @@
     <div class="container mt-5">
       <div class="post">
 
-  <div class="header-bar">
-    <h1></h1>
-    <h2></h2>
-  </div>
+  <header class="post-header">
+    <h1 class="post-title">STFT Phase Reconstruction for Speech Enhancement</h1>
+    <p class="post-description"></p>
+  </header>
 
+  <article>
+    <p>The algorithm estimates the phase spectrum of the underlying speech signal. The voiced part of the speech is modeled using the harmonic model. As a prerequisite step, the fundamental frequencies of the voiced speech are estimated. The phase reconstruction algorithm makes it possible to enhance speech using only the fundamental frequencies and the noisy signal.</p>
 
-  <ul class="post-list">
-    
-  </ul>
+<p>I later improved upon this algorithm by using pitch-synchronous window size for STFT instead of constant window size. This made the estimation of phase spectrum faster and more accurate. Visit the <a href="/projects/speech_enhancement_psr">project’s page</a> to see how it works.</p>
 
-  
+<p>The code is available on <a href="https://github.com/geetkhatri/speech-phase-reconstruction" target="_blank">GitHub</a>.</p>
 
+  </article>
 
 </div>
 
