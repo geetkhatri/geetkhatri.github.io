@@ -21,4 +21,4 @@ My research interests lie at the intersection of machine learning and signal pro
 
 Currently, I'm a PhD student in the Department of Electrical and Computer Engineering at North Carolina State University. Previously, I worked as a software engineer in Pune, India. Prior to that, I was in Delhi Technological University, where I obtained my bachelor's degree in Electronics and Communication Engineering.
 
-Some of my other interests are music, independent film, and art. I write and produce music under the moniker [Taryn](https://tarynn.bandcamp.com/){:target="\_blank"}. I also play guitar for the Raleigh-based band [My Sister Maura](https://www.instagram.com/mysistermaura/){:target="\_blank"}.
+Some of my other interests are music, independent film, and art. I write and produce music under the moniker [Taryn](https://tarynn.bandcamp.com/){:target="\_blank"}, and formerly played guitar for the Raleigh-based band [My Sister Maura](https://open.spotify.com/artist/4K2firSYwyGESfAhSdmYYB?si=4gp-N3VCQxKHu_WkEaOt4A){:target="\_blank"}.
