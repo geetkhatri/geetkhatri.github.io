@@ -20,8 +20,6 @@ importance: 2
 
 **My Sister Maura \| Faintest Scream** (former band's EP): [Spotify](https://open.spotify.com/album/04X5whgXnBbsM2OeZNIztE?si=aXhYHrZTRKWiaaJDhDP-pw){:target="\_blank"} \| [Apple Music](https://music.apple.com/us/album/faintest-screams-ep/1672721856){:target="\_blank"}
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2610265338/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://mysistermaura.bandcamp.com/album/faintest-screams">Faintest Screams by My Sister Maura</a></iframe>
-
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2959587620/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://tarynn.bandcamp.com/album/womb-ether">Womb, Ether by Taryn</a></iframe>
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1272861653/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://tarynn.bandcamp.com/track/blithewood">Blithewood by Taryn</a></iframe>
