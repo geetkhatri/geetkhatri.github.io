@@ -18,9 +18,8 @@ importance: 2
 
 **Mauveine C.** (FKA Taryn): [Bandcamp](https://tarynn.bandcamp.com/){:target="\_blank"}
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2959587620/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://tarynn.bandcamp.com/album/womb-ether">Womb, Ether by Taryn</a></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2959587620/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://mauveinec.bandcamp.com/album/womb-ether">Womb, Ether by Mauveine C.</a></iframe>
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1272861653/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://tarynn.bandcamp.com/track/blithewood">Blithewood by Taryn</a></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1272861653/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://mauveinec.bandcamp.com/track/blithewood">Blithewood by Mauveine C.</a></iframe>
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=3733769758/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://tarynn.bandcamp.com/track/first-light">First Light by Taryn</a></iframe>
-
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=3733769758/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://mauveinec.bandcamp.com/track/first-light">First Light by Mauveine C.</a></iframe>
