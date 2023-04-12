@@ -16,7 +16,7 @@ importance: 2
      © NO.MAD 
 </div>
 
-**Mauveine C.** (FKA Taryn): [Bandcamp](https://tarynn.bandcamp.com/){:target="\_blank"}
+**Mauveine C.** (FKA Taryn): [Bandcamp](https://mauveinec.bandcamp.com/){:target="\_blank"}
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2959587620/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://mauveinec.bandcamp.com/album/womb-ether">Womb, Ether by Mauveine C.</a></iframe>
 
