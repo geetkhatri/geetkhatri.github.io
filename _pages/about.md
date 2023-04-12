@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My research interests lie at the intersection of machine learning and signal processing. I’m particularly interested in their application to problems in computer vision, energy, and audio. My [past research and project work](/projects) was primarily focused on AI-based battery modeling, ultrasonic flaw detection, and speech enhancement.
+My research interests lie at the intersection of machine learning and signal processing. I’m particularly interested in their application to problems in audio and medicine. My [past research and project work](/projects) was primarily focused on speech enhancement, AI-based battery modeling, and ultrasonic flaw detection.
 
 Currently, I'm a PhD student in the Department of Electrical and Computer Engineering at North Carolina State University. Previously, I worked as a software engineer in Pune, India. Prior to that, I was in Delhi Technological University, where I obtained my bachelor's degree in Electronics and Communication Engineering.
 
