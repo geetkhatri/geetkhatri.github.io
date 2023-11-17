@@ -7,7 +7,7 @@ nav: true
 importance: 1
 ---
 
-For more recent projects, see my [LinkedIn](https://www.linkedin.com/in/geetkhatri/).
+For more recent projects, see my [LinkedIn](https://www.linkedin.com/in/geetkhatri/){:target="\_blank"}.
 
 <div class="projects grid">
 
