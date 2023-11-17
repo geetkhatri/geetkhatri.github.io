@@ -7,7 +7,7 @@ nav: true
 importance: 1
 ---
 
-To be updated...
+For more recent projects, see my [LinkedIn](https://www.linkedin.com/in/geetkhatri/).
 
 <div class="projects grid">
 
